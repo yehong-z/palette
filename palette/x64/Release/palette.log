@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  MovieBarCode.cpp
+C:\Users\Yehong\source\repos\palette\palette\MovieBarCode.cpp(17,28): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\Yehong\source\repos\palette\palette\MovieBarCode.cpp(30,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  palette.cpp
+  PixCounter.cpp
+  test.cpp
+  Vbox.cpp
+palette.obj : warning LNK4006: "public: class cv::MatConstIterator & __cdecl cv::MatConstIterator::operator++(void)" (??EMatConstIterator@cv@@QEAAAEAV01@XZ) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: class cv::MatConstIterator & __cdecl cv::MatConstIterator::operator+=(__int64)" (??YMatConstIterator@cv@@QEAAAEAV01@_J@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: __cdecl cv::MatConstIterator::MatConstIterator(class cv::MatConstIterator const &)" (??0MatConstIterator@cv@@QEAA@AEBV01@@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: __cdecl cv::MatConstIterator::MatConstIterator(class cv::Mat const *)" (??0MatConstIterator@cv@@QEAA@PEBVMat@1@@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: unsigned char const * __cdecl cv::Mat::ptr(int)const " (?ptr@Mat@cv@@QEBAPEBEH@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: bool __cdecl cv::Mat::isContinuous(void)const " (?isContinuous@Mat@cv@@QEBA_NXZ) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: unsigned __int64 __cdecl cv::Mat::elemSize(void)const " (?elemSize@Mat@cv@@QEBA_KXZ) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+palette.obj : warning LNK4006: "public: __cdecl cv::MatConstIterator::MatConstIterator(void)" (??0MatConstIterator@cv@@QEAA@XZ) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+MovieBarCode.obj : warning LNK4006: "public: __cdecl cv::_InputArray::_InputArray(class cv::Mat const &)" (??0_InputArray@cv@@QEAA@AEBVMat@1@@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+MovieBarCode.obj : warning LNK4006: "protected: void __cdecl cv::_InputArray::init(int,void const *)" (?init@_InputArray@cv@@IEAAXHPEBX@Z) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+MovieBarCode.obj : warning LNK4006: "public: __cdecl cv::_InputArray::~_InputArray(void)" (??1_InputArray@cv@@QEAA@XZ) 已在 opencv_world455.lib(opencv_world455.dll) 中定义；已忽略第二个定义
+  palette.vcxproj -> C:\Users\Yehong\source\repos\palette\x64\Release\palette.lib
