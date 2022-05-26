@@ -1,6 +1,6 @@
 #pragma once
 
-
+#include "parm.h"
 using array_three = unsigned int(*)[bin_length + 1][bin_length + 1];
 
 struct PixCounter {

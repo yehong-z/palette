@@ -2,6 +2,7 @@
 //
 
 #include "pch.h"
+#include "palette.h"
 using namespace std;
 using namespace cv;
 vector<Vec3b> palette(Mat img, int max_color) {

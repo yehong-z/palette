@@ -1,0 +1,3 @@
+LIBRARY "palette.dll"
+EXPORTS 
+generate_code @1

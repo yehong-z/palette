@@ -63,4 +63,10 @@
   <ItemGroup>
     <Library Include="D:\opencv\build\x64\vc15\lib\opencv_world455.lib" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Source.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
 </Project>

@@ -1,4 +1,4 @@
 #pragma once
 #include <string>
 
-void cal_pale(std::string, int);
+extern "C" __declspec(dllexport) void cal_pale(std::string, int);

@@ -1,4 +1,6 @@
 #include "pch.h"
+#include "PixCounter.h"
+
 PixCounter::PixCounter() {
 	pix = new unsigned int[bin_length + 1][bin_length + 1][bin_length + 1]{};
 	pix_sum = new unsigned int[bin_length + 1][bin_length + 1][bin_length + 1]{};

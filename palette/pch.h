@@ -15,9 +15,5 @@
 #include <string>
 #include <iostream>
 #include <algorithm>
-#include "parm.h"
-#include "Vbox.h"
-#include "PixCounter.h"
-#include "palette.h"
 
 #endif //PCH_H

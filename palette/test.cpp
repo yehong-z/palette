@@ -1,4 +1,5 @@
 #include "pch.h"
+#include "palette.h"
 
 using namespace std;
 

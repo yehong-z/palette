@@ -2,5 +2,5 @@
 #include <string>
 
 using namespace std;
-void generate_code(string movie, string code_path);
+extern "C" __declspec(dllexport) void generate_code(char* movie, char* code_path);
 
